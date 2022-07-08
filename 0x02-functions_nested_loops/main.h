@@ -3,7 +3,7 @@
 
 
 /**
- *   main - Prints _putchar as a message.
+ *   main - Prints main as a message.
  *   Return: Always 0 (Success)
  */
 
